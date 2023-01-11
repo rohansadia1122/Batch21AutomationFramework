@@ -21,6 +21,7 @@ public class LoginTest extends BaseTest {
 		  LoginPage lp=hPage.signin();
 		  UserPage up=lp.doLogin(user, pass);
 		  Log.info(user+" "+pass);
+		  System.out.println("I am in master");
 	}
 	
 	
