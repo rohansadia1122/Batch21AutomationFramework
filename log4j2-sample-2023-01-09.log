@@ -1,0 +1,54 @@
+[INFO ] 2023-01-09 21:31:10.787 [main] Log - chrome launched
+[INFO ] 2023-01-09 21:31:41.253 [main] Log - Welcome to target
+[INFO ] 2023-01-09 21:31:48.911 [main] Log - go to create acc page
+[INFO ] 2023-01-09 21:32:02.676 [main] Log - driver quit
+[INFO ] 2023-01-09 21:32:06.730 [main] Log - driver quit
+[INFO ] 2023-01-09 21:49:36.733 [main] Log - chrome launched
+[INFO ] 2023-01-09 21:50:05.455 [main] Log - Welcome to target
+[INFO ] 2023-01-09 21:50:15.405 [main] Log - go to create acc page
+[INFO ] 2023-01-09 21:50:24.609 [main] Log - driver quit
+[INFO ] 2023-01-09 21:50:28.670 [main] Log - driver quit
+[INFO ] 2023-01-09 23:00:05.606 [main] Log - MS Edge launched
+[INFO ] 2023-01-09 23:00:33.949 [main] Log - Welcome to target
+[INFO ] 2023-01-09 23:00:39.390 [TestNG-tests-1] Log - go to create acc page
+[INFO ] 2023-01-09 23:00:47.789 [TestNG-tests-1] Log - driver quit
+[INFO ] 2023-01-09 23:00:51.825 [TestNG-tests-1] Log - driver quit
+[INFO ] 2023-01-09 23:00:55.962 [main] Log - driver quit
+[INFO ] 2023-01-09 23:01:48.980 [main] Log - MS Edge launched
+[INFO ] 2023-01-09 23:02:13.818 [main] Log - Welcome to target
+[INFO ] 2023-01-09 23:02:24.378 [TestNG-tests-1] Log - go to create acc page
+[INFO ] 2023-01-09 23:02:32.729 [TestNG-tests-1] Log - driver quit
+[INFO ] 2023-01-09 23:04:06.421 [main] Log - MS Edge launched
+[INFO ] 2023-01-09 23:04:34.763 [main] Log - Welcome to target
+[INFO ] 2023-01-09 23:04:39.691 [TestNG-tests-2] Log - signing in
+[INFO ] 2023-01-09 23:04:42.872 [TestNG-tests-1] Log - driver quit
+[INFO ] 2023-01-09 23:08:30.807 [TestNG-tests-1] Log - firefox launched
+[INFO ] 2023-01-09 23:08:32.829 [TestNG-tests-1] Log - Welcome to target
+[INFO ] 2023-01-09 23:08:34.963 [TestNG-tests-1] Log - go to create acc page
+[INFO ] 2023-01-09 23:08:37.795 [TestNG-tests-2] Log - MS Edge launched
+[INFO ] 2023-01-09 23:09:01.624 [TestNG-tests-1] Log - driver quit
+[INFO ] 2023-01-09 23:11:34.949 [TestNG-tests-1] Log - firefox launched
+[INFO ] 2023-01-09 23:11:37.210 [TestNG-tests-1] Log - Welcome to target
+[INFO ] 2023-01-09 23:11:39.824 [TestNG-tests-1] Log - go to create acc page
+[INFO ] 2023-01-09 23:11:41.385 [TestNG-tests-2] Log - MS Edge launched
+[INFO ] 2023-01-09 23:12:05.537 [TestNG-tests-2] Log - Welcome to target
+[INFO ] 2023-01-09 23:12:16.079 [TestNG-tests-2] Log - signing in
+[INFO ] 2023-01-09 23:12:19.035 [TestNG-tests-2] Log - do login
+[INFO ] 2023-01-09 23:13:19.662 [TestNG-tests-1] Log - firefox launched
+[INFO ] 2023-01-09 23:13:21.579 [TestNG-tests-1] Log - Welcome to target
+[INFO ] 2023-01-09 23:13:24.320 [TestNG-tests-1] Log - go to create acc page
+[INFO ] 2023-01-09 23:13:25.732 [TestNG-tests-2] Log - chrome launched
+[INFO ] 2023-01-09 23:21:20.096 [TestNG-tests-1] Log - firefox launched
+[INFO ] 2023-01-09 23:21:23.354 [TestNG-tests-1] Log - Welcome to target
+[INFO ] 2023-01-09 23:21:25.614 [TestNG-tests-1] Log - go to create acc page
+[INFO ] 2023-01-09 23:21:26.251 [TestNG-tests-2] Log - chrome launched
+[INFO ] 2023-01-09 23:21:46.285 [TestNG-tests-2] Log - Welcome to target
+[INFO ] 2023-01-09 23:22:01.183 [TestNG-tests-2] Log - signing in
+[INFO ] 2023-01-09 23:22:04.326 [TestNG-tests-2] Log - do login
+[INFO ] 2023-01-09 23:23:18.960 [TestNG-tests-1] Log - firefox launched
+[INFO ] 2023-01-09 23:23:20.915 [TestNG-tests-1] Log - Welcome to target
+[INFO ] 2023-01-09 23:23:23.127 [TestNG-tests-1] Log - go to create acc page
+[INFO ] 2023-01-09 23:23:24.268 [TestNG-tests-2] Log - chrome launched
+[INFO ] 2023-01-09 23:23:47.343 [TestNG-tests-2] Log - Welcome to target
+[INFO ] 2023-01-09 23:23:57.595 [TestNG-tests-2] Log - signing in
+[INFO ] 2023-01-09 23:24:01.001 [TestNG-tests-2] Log - do login
