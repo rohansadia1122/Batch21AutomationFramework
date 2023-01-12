@@ -36,13 +36,23 @@ public class LoginPage extends BaseTest {
 	
 	public UserPage doLogin(String uname, String pass) throws InterruptedException {
 		username.sendKeys(uname);
-		
 		password.sendKeys(pass);
 		Thread.sleep(3000);
 		driver.navigate().refresh();
 		Thread.sleep(3000);
 		//login.click();
 		Log.info("do login");
+		return new UserPage(driver);
+	}
+	
+	public UserPage doLoginToFb(String uname, String pass) throws InterruptedException {
+		emailfb.sendKeys(uname);
+		passfb.sendKeys(pass);
+		Thread.sleep(3000);
+		driver.navigate().refresh();
+		Thread.sleep(3000);
+		//login.click();
+		Log.info("do login to FB");
 		return new UserPage(driver);
 	}
 	

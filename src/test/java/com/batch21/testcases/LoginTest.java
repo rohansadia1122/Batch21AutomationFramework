@@ -17,9 +17,9 @@ public class LoginTest extends BaseTest {
 	@Test(dataProvider = "logindata")
 	public void loginTest(String user, String pass) throws InterruptedException {
 		
-		  HomePage hPage= new HomePage(driver); 
-		  LoginPage lp=hPage.signin();
-		  UserPage up=lp.doLogin(user, pass);
+		//  HomePage hPage= new HomePage(driver); 
+		  LoginPage lp=new LoginPage(driver);
+		  UserPage up=lp.doLoginToFb(user, pass);
 		  Log.info(user+" "+pass);
 	}
 	
