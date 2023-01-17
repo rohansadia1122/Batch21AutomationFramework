@@ -1,72 +1,17 @@
-[INFO ] 2023-01-10 18:11:51.542 [TestNG-tests-1] Log - firefox launched
-[INFO ] 2023-01-10 18:11:54.068 [TestNG-tests-1] Log - Welcome to target
-[INFO ] 2023-01-10 18:11:56.692 [TestNG-tests-2] Log - chrome launched
-[INFO ] 2023-01-10 18:11:56.966 [TestNG-tests-1] Log - go to create acc page
-[INFO ] 2023-01-10 18:12:28.290 [TestNG-tests-2] Log - Welcome to target
-[INFO ] 2023-01-10 18:12:38.681 [TestNG-tests-2] Log - signing in
-[INFO ] 2023-01-10 18:12:42.318 [TestNG-tests-2] Log - do login
-[INFO ] 2023-01-10 18:14:27.959 [TestNG-tests-2] Log - chrome launched
-[INFO ] 2023-01-10 18:14:32.483 [TestNG-tests-1] Log - MS Edge launched
-[INFO ] 2023-01-10 18:15:27.993 [TestNG-tests-2] Log - Welcome to target
-[INFO ] 2023-01-10 18:15:28.009 [TestNG-tests-1] Log - Welcome to target
-[INFO ] 2023-01-10 18:15:41.264 [TestNG-tests-2] Log - signing in
-[INFO ] 2023-01-10 18:15:44.826 [TestNG-tests-2] Log - do login
-[INFO ] 2023-01-10 18:27:47.132 [TestNG-tests-2] Log - firefox launched
-[INFO ] 2023-01-10 18:27:49.519 [TestNG-tests-2] Log - Welcome to target
-[INFO ] 2023-01-10 18:27:51.699 [TestNG-tests-1] Log - chrome launched
-[INFO ] 2023-01-10 18:27:52.465 [TestNG-tests-2] Log - signing in
-[INFO ] 2023-01-10 18:28:24.759 [TestNG-tests-1] Log - Welcome to target
-[INFO ] 2023-01-10 18:28:34.407 [TestNG-tests-1] Log - go to create acc page
-[INFO ] 2023-01-10 18:29:44.729 [TestNG-tests-2] Log - firefox launched
-[INFO ] 2023-01-10 18:29:46.943 [TestNG-tests-2] Log - Welcome to target
-[INFO ] 2023-01-10 18:29:48.911 [TestNG-tests-2] Log - signing in
-[INFO ] 2023-01-10 18:29:48.938 [TestNG-tests-1] Log - chrome launched
-[INFO ] 2023-01-10 18:29:49.393 [TestNG-tests-2] Log - do login
-[INFO ] 2023-01-10 18:30:17.074 [TestNG-tests-1] Log - Welcome to target
-[INFO ] 2023-01-10 18:30:25.712 [TestNG-tests-1] Log - go to create acc page
-[INFO ] 2023-01-10 18:33:56.693 [TestNG-tests-2] Log - firefox launched
-[INFO ] 2023-01-10 18:34:00.069 [TestNG-tests-2] Log - Welcome to target
-[INFO ] 2023-01-10 18:34:02.809 [TestNG-tests-1] Log - MS Edge launched
-[INFO ] 2023-01-10 18:34:02.939 [TestNG-tests-2] Log - signing in
-[INFO ] 2023-01-10 18:34:41.132 [TestNG-tests-1] Log - Welcome to target
-[INFO ] 2023-01-10 18:34:48.513 [TestNG-tests-1] Log - go to create acc page
-[INFO ] 2023-01-10 18:48:07.933 [main] Log - firefox launched
-[INFO ] 2023-01-10 18:48:10.106 [main] Log - Welcome to target
-[INFO ] 2023-01-10 18:50:14.915 [main] Log - chrome launched
-[INFO ] 2023-01-10 18:50:46.227 [main] Log - Welcome to target
-[INFO ] 2023-01-10 18:51:50.698 [main] Log - chrome launched
-[INFO ] 2023-01-10 18:52:20.971 [main] Log - Welcome to target
-[INFO ] 2023-01-10 18:54:54.552 [main] Log - chrome launched
-[INFO ] 2023-01-10 18:55:25.377 [main] Log - Welcome to target
-[INFO ] 2023-01-10 18:55:33.988 [main] Log - signing in
-[INFO ] 2023-01-10 18:55:38.068 [main] Log - do login
-[INFO ] 2023-01-10 18:55:38.069 [main] Log - rihad23@gmail 56354ere
-[INFO ] 2023-01-10 18:59:47.868 [main] Log - chrome launched
-[INFO ] 2023-01-10 19:00:16.976 [main] Log - Welcome to target
-[INFO ] 2023-01-10 19:00:26.153 [main] Log - signing in
-[INFO ] 2023-01-10 19:00:33.334 [main] Log - do login
-[INFO ] 2023-01-10 19:00:33.335 [main] Log - rihad23@gmail 56354ere
-[INFO ] 2023-01-10 19:03:08.395 [main] Log - chrome launched
-[INFO ] 2023-01-10 19:03:38.940 [main] Log - Welcome to target
-[INFO ] 2023-01-10 19:03:38.994 [main] Log - rihad23@gmail 56354ere
-[INFO ] 2023-01-10 19:03:39.003 [main] Log - expertautoyahoo.com tyutyu7u6u
-[INFO ] 2023-01-10 19:03:39.016 [main] Log - abcd@.com dfgdfg65
-[INFO ] 2023-01-10 19:43:13.745 [main] Log - chrome launched
-[INFO ] 2023-01-10 19:43:48.421 [main] Log - Welcome to target
-[INFO ] 2023-01-10 19:43:49.646 [main] Log - rihad23@gmail.com  546546gfg
-[INFO ] 2023-01-10 19:43:49.656 [main] Log - experauto@yahoo.com 8645896fg
-[INFO ] 2023-01-10 19:43:49.674 [main] Log - rihad22@hotmail.com 798shdfgjsf
-[INFO ] 2023-01-10 19:47:42.764 [main] Log - chrome launched
-[INFO ] 2023-01-10 19:48:15.802 [main] Log - Welcome to target
-[INFO ] 2023-01-10 19:48:23.550 [main] Log - signing in
-[INFO ] 2023-01-10 19:48:30.577 [main] Log - do login
-[INFO ] 2023-01-10 19:48:30.579 [main] Log - rihad23@gmail.com  546546gfg
-[INFO ] 2023-01-10 19:51:09.478 [main] Log - chrome launched
-[INFO ] 2023-01-10 19:51:40.876 [main] Log - Welcome to target
-[INFO ] 2023-01-10 19:51:51.281 [main] Log - signing in
-[INFO ] 2023-01-10 19:52:02.840 [main] Log - do login
-[INFO ] 2023-01-10 19:52:02.843 [main] Log - rihad23@gmail.com  546546gfg
-[INFO ] 2023-01-10 20:23:41.730 [main] Log - chrome launched
-[INFO ] 2023-01-10 20:23:47.843 [main] Log - Welcome to target
-[INFO ] 2023-01-10 20:25:59.593 [main] Log - chrome launched
-[INFO ] 2023-01-10 20:26:05.539 [main] Log - Welcome to target
+[INFO ] 2023-01-11 21:56:40.885 [main] Log - chrome launched
+[INFO ] 2023-01-11 21:56:46.257 [main] Log - Welcome to target
+[INFO ] 2023-01-11 21:56:54.097 [main] Log - do login to FB
+[INFO ] 2023-01-11 21:56:54.105 [main] Log - rihad23@gmail.com  546546gfg
+[INFO ] 2023-01-11 21:57:01.298 [main] Log - do login to FB
+[INFO ] 2023-01-11 21:57:01.299 [main] Log - experauto@yahoo.com 8645896fg
+[INFO ] 2023-01-11 21:57:07.572 [main] Log - do login to FB
+[INFO ] 2023-01-11 21:57:07.574 [main] Log - rihad22@hotmail.com 798shdfgjsf
+[INFO ] 2023-01-11 21:59:18.656 [main] Log - chrome launched
+[INFO ] 2023-01-11 21:59:23.909 [main] Log - Welcome to target
+[INFO ] 2023-01-11 21:59:31.698 [main] Log - do login to FB
+[INFO ] 2023-01-11 21:59:31.703 [main] Log - rihad23@gmail.com  546546gfg
+[INFO ] 2023-01-11 21:59:37.905 [main] Log - do login to FB
+[INFO ] 2023-01-11 21:59:37.909 [main] Log - experauto@yahoo.com 8645896fg
+[INFO ] 2023-01-11 21:59:44.133 [main] Log - do login to FB
+[INFO ] 2023-01-11 21:59:44.136 [main] Log - rihad22@hotmail.com 798shdfgjsf
+[INFO ] 2023-01-11 21:59:48.318 [main] Log - driver quit

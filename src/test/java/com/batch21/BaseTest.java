@@ -48,7 +48,7 @@ public class BaseTest {
 		 driver.manage().window().maximize();
 		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(15));
-		 Log.info("Welcome to target");
+		 Log.info("Welcome to  "+ driver.getTitle());
 		 
 	}
 	
@@ -59,8 +59,8 @@ public class BaseTest {
 	public void tearDown() throws InterruptedException {
 		if (driver!=null) {
 			Thread.sleep(4000);
-			//driver.close();
-			//Log.info("driver quit");
+			driver.close();
+			Log.info("driver quit");
 		}
 	}
 	
