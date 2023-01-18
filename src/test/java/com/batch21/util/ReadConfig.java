@@ -51,4 +51,21 @@ public class ReadConfig {
 		return password;
 	}
 	
+	public String getDbURL() {
+		String dburl=properties.getProperty("dburl");
+		return dburl;
+	}
+	
+	public String getUserDB() {
+		String username=properties.getProperty("username");
+		return username;
+	}
+	
+	public String getPasswordDb() {
+		String password=properties.getProperty("password");
+		return password;
+	}
+
+
+	
 }
