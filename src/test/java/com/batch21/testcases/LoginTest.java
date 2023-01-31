@@ -22,6 +22,8 @@ public class LoginTest extends BaseTest {
 		  UserPage up=lp.doLoginToFb(user, pass);
 		  Log.info(user+" "+pass);
 		  System.out.println("I am in master");
+		 System.out.println("I am testing jenkins");
+		
 	}
 	
 	
